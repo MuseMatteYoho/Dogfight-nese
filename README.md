@@ -1,4 +1,4 @@
-Dogfight-nese
+Dogfight-nese (discontinued)
 =============
 
-Dogfight game
+This is a game i was tinkering with in my early days of java programming.
